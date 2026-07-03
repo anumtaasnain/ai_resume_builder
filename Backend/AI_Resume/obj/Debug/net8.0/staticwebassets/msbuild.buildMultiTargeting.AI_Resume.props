@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AI_Resume.props" />
+</Project>

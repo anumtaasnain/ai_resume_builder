@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AI_Resume.Controllers.OptimizeController",
+    "Method": "AnalyzeResume",
+    "RelativePath": "api/Optimize/llama",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AI_Resume.Models.OptimizeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
